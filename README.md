@@ -1,7 +1,7 @@
-### Hi there 👋
+<!--### Hello!-->
 
 <!--
-**ArthurTelles/ArthurTelles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ArthurTelles/ArthurTelles is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🎮 Currently working as a Game Developer at Moonite Games
+- ⚡ Fun facts: 🥋 Former athlete of the Brazilian judo team and ❤️‍🔥 RPG lover
+- 📫 How to reach me: https://www.linkedin.com/in/arthurtelles/
+
